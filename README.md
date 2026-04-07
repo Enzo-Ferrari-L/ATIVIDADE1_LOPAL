@@ -3,35 +3,8 @@
 
 ---
 
-# Lista de Atividades
+Este repositório reúne uma série de exercícios voltados ao desenvolvimento da lógica de programação, utilizando situações do dia a dia como base. A ideia foi representar cada tarefa de forma organizada por meio de fluxogramas e pseudocódigo, facilitando a compreensão dos passos envolvidos sem depender de uma linguagem específica.
 
-Este repositório reúne exercícios feitos para desenvolver a lógica de programação de forma prática, utilizando fluxogramas e pseudocódigo para representar, de maneira simples e organizada, situações do dia a dia.
+O principal objetivo é desenvolver o raciocínio lógico e a capacidade de dividir problemas em etapas claras e sequenciais. Dessa forma, fica mais fácil entender como chegar a uma solução de maneira eficiente.
 
----
-
-## Objetivo
-
-Desenvolver o raciocínio lógico e a capacidade de organizar soluções de maneira clara, sequencial e eficiente.
-
----
-
-## Atividades
-
-* Ir ao trabalho
-* Troca de pneu
-* Troca de lâmpada
-* Pegar ônibus
-* Preparar um bolo simples
-  
-Cada atividade contém:
-
-* Fluxograma
-* Pseudocódigo
-
----
-
-## Conclusão
-
-A atividade contribuiu para a compreensão prática da lógica de programação, demonstrando como tarefas do dia a dia podem ser transformadas em algoritmos bem estruturados.
-
----
+As atividades incluem exemplos práticos, como ir ao trabalho, trocar um pneu, substituir uma lâmpada, pegar um ônibus e preparar um bolo simples. Cada uma delas foi transformada em um algoritmo completo, com fluxograma e pseudocódigo, tornando o processo mais visual e fácil de acompanhar.
