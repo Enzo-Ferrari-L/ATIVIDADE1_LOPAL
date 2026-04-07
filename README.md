@@ -1,4 +1,4 @@
-# ATIVIDADE Lógica de programação
+# Atividade Lógica de programação
 
 
 ---
