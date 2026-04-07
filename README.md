@@ -3,7 +3,7 @@
 
 ---
 
-# Lista de Atividades – Lógica de Programação
+# Lista de Atividades
 
 Este repositório reúne exercícios voltados ao desenvolvimento da lógica de programação, utilizando fluxogramas e pseudocódigo para representar, de forma estruturada, situações do cotidiano.
 ---
