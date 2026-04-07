@@ -1,8 +1,6 @@
 # ATIVIDADE1_LOPAL
 
 
-Claro, fofis! Aqui está a versão ajustada:
-
 ---
 
 # Lista de Atividades – Lógica de Programação
