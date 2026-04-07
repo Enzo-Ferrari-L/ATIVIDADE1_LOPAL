@@ -6,10 +6,13 @@
 # Lista de Atividades – Lógica de Programação
 
 Este repositório reúne exercícios voltados ao desenvolvimento da lógica de programação, utilizando fluxogramas e pseudocódigo para representar, de forma estruturada, situações do cotidiano.
+---
 
 ## Objetivo
 
 Desenvolver o raciocínio lógico e a capacidade de organizar soluções de maneira clara, sequencial e eficiente.
+
+---
 
 ## Atividades
 
@@ -18,11 +21,13 @@ Desenvolver o raciocínio lógico e a capacidade de organizar soluções de mane
 * Troca de lâmpada
 * Pegar ônibus
 * Preparar um bolo simples
-
+  
 Cada atividade contém:
 
 * Fluxograma
 * Pseudocódigo
+
+---
 
 ## Conclusão
 
